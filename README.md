@@ -2,7 +2,7 @@
 
 偶然在网上看到一张咕泡学院的架构师成长路线图，觉得很适合作为自己准备找工作时的复习路线，为了方便操作，自己利用Xmind手敲了一幅脑图出来(侵权的话请联系我删除)。希望自己能够持之以恒，一砖一瓦地盖起这座高楼。
 
-![awesome-architect](https://github.com/raymond-zhao/awesome-architect/08-参考资料/awesome-architect.png)
+![awesome-architect]([https://github.com/raymond-zhao/awesome-architect/blob/master/08-%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99/awesome-architect.png](https://github.com/raymond-zhao/awesome-architect/blob/master/08-参考资料/awesome-architect.png))
 
 # 架构师学习路线
 
